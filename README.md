@@ -10,7 +10,7 @@ Lucas Soiti da Silva Ganaka RA: 0791811004
 
 
 ## Descrição do Projeto
-<p align="justify"> Sistema de armazenamento de dados de cartas, que permite o cadatro, visualização e alteração dos dados armazenados </p>
+<p align="justify"> Sistema de armazenamento de dados de cartas, que permite o cadastro, visualização e alteração dos dados armazenados </p>
 
 <p align="justify"> Os dados que devem ser armazenados em cada registro são: </p>
 
@@ -20,3 +20,7 @@ Lucas Soiti da Silva Ganaka RA: 0791811004
 - Raridade da carta
 - Série da carta
 - Coleção da carta
+
+## Descrição do código
+<p align="justify"> Primeiro criamos a classe Pokemon com os atributos referêntes aos dados  </p>
+
